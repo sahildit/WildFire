@@ -1,3 +1,5 @@
+React app to display the wildfire happened around the world. Built using Nasa API key.
+
 ![image](https://user-images.githubusercontent.com/47186806/128599871-49cd8a42-0929-4cca-8b54-2e976a30b2db.png)
 
 
