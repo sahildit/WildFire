@@ -1,4 +1,5 @@
 React app to display the wildfire happened around the world. Built using Nasa API key.
+The text "for development purpose only" is occurring because I have used the free version of google map API key. To remove it you can pay for the service and then it will remove.
 
 ![image](https://user-images.githubusercontent.com/47186806/128599871-49cd8a42-0929-4cca-8b54-2e976a30b2db.png)
 
